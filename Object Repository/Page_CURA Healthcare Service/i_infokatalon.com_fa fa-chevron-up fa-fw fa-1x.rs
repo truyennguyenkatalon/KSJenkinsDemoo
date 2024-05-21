@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_infokatalon.com_fa fa-chevron-up fa-fw fa-1x</name>
+   <tag></tag>
+   <elementGuidId>7f188bce-3fa1-49e8-9c54-bc48b888ece8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-up.fa-fw.fa-1x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='to-top']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d801d739-1c74-4e54-87f9-c92a0e3aa08a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-up fa-fw fa-1x</value>
+      <webElementGuid>967c6185-2933-4d23-9c37-f29c5a61327b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;to-top&quot;)/i[@class=&quot;fa fa-chevron-up fa-fw fa-1x&quot;]</value>
+      <webElementGuid>88c6b9e3-65aa-4d83-b52b-5840d891d250</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='to-top']/i</value>
+      <webElementGuid>1abea7b9-e117-41dc-847b-c936af658e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/a/i</value>
+      <webElementGuid>efcb8ab6-ed54-4c48-bf90-8aa7280aa8f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
